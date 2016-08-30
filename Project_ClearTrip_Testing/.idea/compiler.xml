@@ -18,5 +18,9 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Project_ClearTrip_Testing_main" target="1.8" />
+      <module name="Project_ClearTrip_Testing_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
