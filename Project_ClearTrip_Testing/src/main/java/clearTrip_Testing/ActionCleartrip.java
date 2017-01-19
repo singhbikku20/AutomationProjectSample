@@ -28,7 +28,8 @@ public class ActionCleartrip {
 	{
 		driver.get("http://www.cleartrip.com/");
 		System.out.println("Current URL: "+(driver.getCurrentUrl()));
-		System.out.println("Title: "+(driver.getTitle()));		
+		System.out.println("Title: "+(driver.getTitle()));
+		System.out.println("TESTING");		
 	}
 	
 	protected void login()
