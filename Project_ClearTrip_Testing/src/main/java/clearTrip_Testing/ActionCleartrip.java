@@ -1,4 +1,4 @@
-          package clearTrip_Testing;
+package clearTrip_Testing;
 
 import java.awt.*;
 import java.text.DateFormat;
